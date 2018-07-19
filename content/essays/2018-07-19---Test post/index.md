@@ -53,11 +53,11 @@ Tufte emphasizes tight integration of graphics with text. Data, graphs, and figu
 
 Figures should try to use the <code>figure</code> element, which by default are constrained to the main column. Don’t wrap figures in a paragraph tag. Any label or margin note goes in a regular margin note inside the figure. For example, most of the time one should introduce a figure directly into the main flow of discussion, like so:
 
-{{% figure src="Jessica_Beal-False_Rape_Allegation.jpg" %}}From Edward Tufte, _Visual Display of Quantitative Information_, page 92.{{% /figure %}}
+{{% figure src="Jessica_Beal-False_Rape_Allegation.jpg" for="big-fat-cow" %}}From Edward Tufte, _Visual Display of Quantitative Information_, page 92.{{% /figure %}}
+
+{{% figure-margin src="Jessica_Beal-False_Rape_Allegation.jpg" for="small-fat-cow" %}}From Edward Tufte, _Visual Display of Quantitative Information_, page 92.{{% /figure %}}
 
 But tight integration of graphics with text is central to Tufte’s work even when those graphics are ancillary to the main body of a text. In many of those cases, a margin figure may be most appropriate. To place figures in the margin, just wrap an image (or whatever) in a margin note inside a p tag, as seen to the right of this paragraph.
-
-{{% figure src="Jessica_Beal-False_Rape_Allegation.jpg" %}}From Edward Tufte, _Visual Display of Quantitative Information_, page 92.{{% /figure %}}
 
 If you need a full-width figure, give it the fullwidth class. Make sure that’s inside an article, and it will take up (almost) the full width of the screen. This approach is demonstrated below using Edward Tufte’s English translation of the Napoleon’s March data visualization. From _Beautiful Evidence_, page 122-124.
 
