@@ -10,55 +10,26 @@ tags:
 description: "Jemma Beale’s eventual prosecution for a series of false allegations of sexual assault and rape reveals gender feminism’s powerful grip on UK politics, and on its criminal justice system."
 ---
 
+{{% figure src="Jessica_Beal-False_Rape_Allegation.jpg" for="jb-arrested" %}}Jemma Beale: <i>“a determined liar who repeatedly went to great lengths to fabricate evidence in an attempt to see innocent men convicted, including telling deliberate lies under oath”</i> — Samuel Main, UK Crown Prosecution Service{{% /figure %}}
+
 {{% section %}}
-
-{{% marginfigure
-
-    reference="mn-determined_liar"
-    image_source="Jessica_Beal-False_Rape_Allegation.jpg"
-    caption="Jemma Beale: <i>'a determined liar who repeatedly went to great lengths to fabricate evidence in an attempt to see innocent men convicted, including telling deliberate lies under oath.'</i> <br />— Samuel Main, UK Crown Prosecution Service" %}}
 
 <span class="newthought">Jemma Beale (25) was found guilty</span> in July in Southwark Crown Court of making a series of false allegations of serious sexual assault and rape against fifteen men over a four year period. One falsely convicted man served two years of a seven year prison sentence in 2011 after the Crown Prosecution Service’s second attempt to secure his conviction on her behalf. Another was falsely arrested after being forced to flee the country.
 
-{{% /marginfigure %}}
-
-
 UK Crown Prosecution Service (CPS) lawyer Samuel Main later conceded:
-{{< sidenote reference="sn-cps2017" >}}
-Crown Prosecution Service. 2017. <i>“Woman Convicted of Making False Rape Claims Against Innocent Men.”</i>p July 6. (link)
-{{< /sidenote >}}
 
-<figure class="large">
-	<blockquote>
-		<p>Jemma Beale was a determined liar who repeatedly went to great lengths to fabricate evidence in an attempt to see innocent men convicted, including telling deliberate lies under oath. She knew what she was doing but cynically tried to use the criminal justice system to serve her own purpose.</p>
-		<footer>
-			<cite>—Samuel Main, Crown Prosecution Service</cite>
-		</footer>
-	</blockquote>
-</figure>
+{{< blockquote source="Samuel Main, UK Crown Prosecution Service (CPS) lawyer">}}Jemma Beale was a determined liar who repeatedly went to great lengths to fabricate evidence in an attempt to see innocent men convicted, including telling deliberate lies under oath. She knew what she was doing but cynically tried to use the criminal justice system to serve her own purpose.{{< sidenote reference="sn-cps2017" >}}
+Crown Prosecution Service. 2017. <i>“Woman Convicted of Making False Rape Claims Against Innocent Men.”</i> July 6 <a href="https://www.cps.gov.uk/london-south/news/woman-convicted-making-false-rape-claims-against-innocent-men">link</a>{{< /sidenote >}}{{< /blockquote >}}
 
-Detective Sergeant Kevin Lynott, who led the investigation into Beale’s false allegations of sexual assault and rape, notes that during the investigations Beale received support measured in thousands of hours, but that she:[^2]
+The financial incentive for making false allegations of sexual assault and rape are substantial. The minimum award for successfully securing conviction for rape was increased under the previous Labour Government from £7,500 to £11,000.
 
-<figure>
-  <blockquote>
-    <p>...has been exposed as a serial liar and I can only think that she was motivated partly by financial reward</p>
-    <footer>
-      <cite>—Detective Sergeant Kevin Lynott</cite>
-    </footer>
-  </blockquote>
-</figure>
+Detective Sergeant Kevin Lynott, who led the investigation into Beale’s false allegations of sexual assault and rape, notes that during the investigations Beale received support measured in thousands of hours, but that she:
 
+{{< blockquote source="Detective Sergeant Kevin Lynott">}}...has been exposed as a serial liar and I can only think that she was motivated partly by financial reward.{{< sidenote reference="sn-mp2017" >}}Metropolitan Police. 2017. <i>“Woman convicted of perjury offences”</i> July 6.<a href="http://news.met.police.uk/news/woman-convicted-of-perjury-offences-250451">link</a>{{< /sidenote >}}{{< /blockquote >}}
 
-The financial incentive for making false allegations of sexual assault and rape are substantial. The minimum award for successfully securing conviction for rape was increased under the previous Labour Government from £7,500 to £11,000. Anyone making false allegations is afforded total anonymity during the process.[^3] And, as long as they withdraw the false allegation — say, having tested the prospect for a successful claim — the Crown Prosecution Service will not prosecute. From its press release:[^3]
+Anyone making false allegations is afforded total anonymity during the process.{{< sidenote reference="sn-soaa" >}}Section 1 of the Sexual Offences (Amendment) Act 1992 <a href="http://www.legislation.gov.uk/ukpga/1992/34/section/1">[link]</a>{{< /sidenote >}} And, as long as they withdraw the false allegation — say, having tested the prospect for a successful claim — the Crown Prosecution Service will not prosecute. From its press release:
 
-<figure>
-  <blockquote>
-    <p>The CPS will never prosecute somebody for perverting the course of justice simply because, for instance, there may be discrepancies in the evidence, or because the victim chooses not to continue to support a case.</p>
-    <footer>
-      <cite>—Crown Prosecution Service</cite>
-    </footer>
-  </blockquote>
-</figure>
+{{< blockquote source="Crown Prosecution Service" >}}The CPS will never prosecute somebody for perverting the course of justice simply because, for instance, there may be discrepancies in the evidence, or because the victim chooses not to continue to support a case.{{< /blockquote >}}
 
 So, the Beale case shows us that, under current arrangements: a strong motive and ready means exists for people to lie under oath while bringing speculative false allegations of sexual assault and rape; people do so, with little personal risk; the act of doing so creates grotesque injustice for men; and it can go undetected for years.
 
@@ -68,38 +39,25 @@ In fact, the Crown Prosecution Service and UK Government, under the influence of
 {{% /section %}}
 
 
-
-
 {{% section %}}
 ## The Crown Prosecution Service
 
-<span class="newthought">The CPS is a publicly funded agency</span> with the responsibility (in England and Wales) for deciding who faces criminal charges, and for conducting their prosecution. Its priorities are set by Director of Public Prosecutions, Alison Saunders. Although tasked with ensuring justice for all members of society, Ms Saunders attaches particular importance to the justice afforded women. In the view of barrister Laura Perrins:[^4]
+<span class="newthought">The CPS</span> is a publicly funded agency with the responsibility (in England and Wales) for deciding who faces criminal charges, and for conducting their prosecution. Its priorities are set by Director of Public Prosecutions, Alison Saunders. Although tasked with ensuring justice for all members of society, Ms Saunders attaches particular importance to the justice afforded women.
 
-<figure>
-  <blockquote>
-    <p>it is [Saunders] attachment to a doctrinaire brand of feminism that is the most disturbing feature of her CPS leadership…Hardline feminists may be glorying in Ms Saunders’s tenure. The rest of us should surely be concerned that the organisation is in danger of losing its sense of purpose and proportion.</p>
-    <footer>
-      <cite>—Laura Perrins, Barrister</cite>
-    </footer>
-  </blockquote>
-</figure>
+In the view of barrister Laura Perrins:
+
+{{< blockquote source="Laura Perrins, Barrister" >}}...it is [Saunders] attachment to a doctrinaire brand of feminism that is the most disturbing feature of her CPS leadership…Hardline feminists may be glorying in Ms Saunders’s tenure. The rest of us should surely be concerned that the organisation is in danger of losing its sense of purpose and proportion.{{< sidenote reference="sn-lp" >}}Perrins, Laura. 2016. <i>“The Feminists Who Are Turning British Justice Against Men”.</i> September 7 <a href="http://www.dailymail.co.uk/debate/article-3777053/The-feminists-turning-British-justice-against-men-writes-LAURA-PERRINS.html">[link]</a>{{< /sidenote >}}{{< /blockquote >}}
 
 
 Ms Saunders is specifically committed to the goal of increasing the rate of conviction of men for allegations of sexual assault and rape. To support this, she has switched CPS resources, already diminishing under austerity measures, from prosecutions of current alleged crimes for the benefit of all members of society (the majority of victims of violent crime in the UK, for example, are men), to prosecutions of men for current and past alleged crimes for the benefit of women.
 
-Additionally, in her “Violence against Women and Crime Report”, she states:[^5]
+Additionally, in her “Violence against Women and Crime Report”{{< marginenote reference="mn-lptriumph" >}} Laura Perrins: <i>“In triumphant language, the document spells out a lengthy catalogue of success for the modern feminist agenda.”</i> {{< /marginenote >}}, she states:
 
-<figure>
-  <blockquote>
-    <p>…despite beginning to see a rise in volumes, with a 25% rise in defendants charged during 2013–14, the conviction rate [for rape] fell. We are taking this extremely seriously…We have pledged our commitment to addressing the issues preventing rape cases from successfully progressing through the criminal justice system to ensure both a rise in volumes and proportions</p>
-    <footer>
-    </footer>
-  </blockquote>
-</figure>
+{{< blockquote source="Alison Saunders. Director, Crown Prosecution Service" >}}…despite beginning to see a rise in volumes, with a 25% rise in defendants charged during 2013–14, the conviction rate [for rape] fell. We are taking this extremely seriously…We have pledged our commitment to addressing the issues preventing rape cases from successfully progressing through the criminal justice system to ensure both a rise in volumes and proportions.{{< sidenote reference="sn-cpsvawgr" >}}Criminal Prosecution Service. 2014. “Violence Against Women and Girls Crime Report.”  <a href="https://www.cps.gov.uk/Publications/docs/cps_vawg_report_2014.pdf">[link]</a>{{< /sidenote >}}{{< /blockquote >}}
 
-Ms Saunders notes that, as a consequence, police referrals for cases involving violence against women and girls in 2014 rose 17% to 109,419; prosecutions rose 10% to 90,516; and convictions rose 11% to 67,380. The resulting conviction rate of 74.4% was ‘the highest ever’. In achieving this, Ms Saunders acknowledges the influence of feminist advocacy groups “in every CPS Area”.[^6]
+Ms Saunders notes that, as a consequence, police referrals for cases involving violence against women and girls in 2014 rose 17% to 109,419; prosecutions rose 10% to 90,516; and convictions rose 11% to 67,380. The resulting conviction rate of 74.4% was ‘the highest ever’. {{< marginenote reference="as-proud" >}} Saunders: <i>“I am incredibly proud of what the CPS has achieved in recent years in tackling [Violence Against Women and Girls] issues, in no small part due to the leadership shown by dedicated VAWG coordinators in every CPS Area.”</i> {{< /marginenote >}} In achieving this, Ms Saunders acknowledges the influence of feminist advocacy groups “in every CPS Area”.
 
-To justify extending the scope and reach of misandric legislation, feminists must argue that the unsafe conviction rate for sexual assault and rape is very low. Yet statistics on those rates are so contaminated by opinionated feminist advocacy research that the actual rate is hard to determine.[^7] In practice, the CPS claims that the unsafe conviction rate is less than 2% i.e. a false conviction rate lower than the estimate, in other jurisdictions, for more tightly controlled capital punishment cases.
+To justify extending the scope and reach of misandric legislation, feminists must argue that the unsafe conviction rate for sexual assault and rape is very low. Yet statistics on those rates are so contaminated by opinionated feminist advocacy research that the actual rate is hard to determine.{{< marginenote reference="mn-greer" >}} Greer, E. 1999. <i>“The Truth Behind Legal Dominance Feminism’s Two Percent False Rape Claim Figure.”</i> Loy LAL Rev. Demonstrates the origin of the statistic in an unpublished speech several decades ago about a single New York City study based on inaequate research methodologies, replicated by notionally respectable feminist advocacy researchers to the level of ‘consensus’ through pyramidical referencing.{{< /marginenote >}} In practice, the CPS claims that the unsafe conviction rate is less than 2% i.e. a false conviction rate lower than the estimate, in other jurisdictions, for more tightly controlled capital punishment cases.
 
 Giving full benefit of the doubt to the feminist case and accepting their figure of 2%, the individual who was imprisoned by Beale’s false allegation of sexual assault was potentially one of (2% x 67,380) c. 1,350 falsely convicted men that year. Credible sources estimate the true false accusation rate to be between 2% and 10%.
 
@@ -108,55 +66,32 @@ Notwithstanding, Ms Saunders informs her so-called ‘stakeholders’ (a coaliti
 
 {{% /section %}}
 
-## Her Majesty’s Government
+{{% section %}}
+## On Her Majesty’s Secret Service
+
 
 In principle, Ms Saunders receives her direction from politicians. Two prominent feminist Labour Party politicians she is currently receiving specific direction from are prominent feminist campaigner and Member of Parliament, The Right Honourable Jess Phillips MP, and Member of Parliament and former Minister for Women, the Right Honourable Harriet Harman QC MP.
 
-<figure>
-<img 
-    src="./Jess_Phillips_Sneering_At_Male_Suicide.jpg" 
-    alt="Labour feminist politician Jess Phillips sneering at male suicide">
-<figcaption>
-Labour MP Right Honourable Jess Phillips sneering in Backbench Business Committee at a proposal to discuss the crisis of male adolescent and adult suicide, men’s healthcare, boys' educational underachievement in schools and universities, and  fathers’ post-separation contact with their children.
-<figcaption>
-</figure>
+{{% figure src="Jess_Phillips_Sneering_At_Male_Suicide.jpg" for="phillips-sneering" %}}Labour MP Right Honourable Jess Phillips sneering in Backbench Business Committee at the proposal to discuss educational underachievement in boys, fathers’ post-separation contact with their children, men’s healthcare, and the crisis of male suicide.{{% /figure %}}
 
-Ms Phillips gained notoriety by laughing on camera at a proposal to debate educational underachievement in boys, and male suicide and cancer.[^8] She chairs the female only Parliamentary Labour Party (PLP) with the declared intention of forcing the current minority government to pass policies favourable to women, including female-only social security reform, the prohibition of men from participation in certain elections, and the transfer to women of the control of industrial strategy.[^9]
 
-Noting approvingly of the disproportionate power to control legislation that blocs of MPs hold in minority governments, Ms Phillips claims: 
+Ms Phillips gained notoriety by laughing on camera{{< sidenote reference="sn-phillips" >}}Bell, Dan. 2017. <i>“Who’s Really Being Silenced in the Gender Debate?.”</i> Spiked. <a href="http://www.spiked-online.com/newsite/article/whos-really-being-silenced-in-the-gender-debate/17602">[link]</a>{{< /sidenote >}} at a proposal to debate educational underachievement in boys, and male suicide and cancer. She chairs the female only Parliamentary Labour Party (PLP) with the declared intention of forcing the current minority government to pass policies favourable to women, including female-only social security reform, the prohibition of men from participation in certain elections, and the transfer to women of the control of industrial strategy.{{< sidenote reference="sn-guardian" >}}Guardian. 2017. <i>“Labour’s female MPs vow to use Commons strength to improve lives of women”</i> July 6 <a href="https://www.theguardian.com/politics/2017/jul/06/labour-female-mps-commons-bloc-womens-issues-jess-phillips">[link]</a>{{< /sidenote >}}
 
-<figure>
-  <blockquote>
-    <p>The women’s PLP is 119 strong; as a group we dwarf the 10 DUP [Democratic Unionist] MPs. We will be using our collective voices to push for the things that we know matter to women in the UK.</p>
-    <footer>
-      <cite>—Jess Phillips, feminist campaigner and MP </cite>
-    </footer>
-  </blockquote>
-</figure>
+
+Noting approvingly of the disproportionate power to control legislation that blocs of MPs hold in minority governments, Ms Phillips claims:
+
+{{< blockquote source="Jess Phillips, feminist campaigner and MP" >}}The women’s PLP is 119 strong; as a group we dwarf the 10 DUP [Democratic Unionist] MPs. We will be using our collective voices to push for the things that we know matter to women in the UK.{{< /blockquote >}}
+
+
+{{% figure-margin src="Harman_Feminist_Shirt.jpg" for="harman-tshirt" %}}Labour MP Right Honourable Harriet Harman QC MP wearing her “This is what a feminist looks like” tee-shirt while representing her male and female constituants in the UK House of Commons.{{% /figure %}}
 
 Of the many things that matter to women in the UK, Mss Phillips and Harman are particularly interested in altering the law in their favour.
 
+Not only is the Government vulnerable to Mss Phillips’ and Harman’s influence; the public is also. In a letter from the Criminal Law Solicitors Association to Ms Harman registering their concern at “incautious public remarks” made by Mss Phillips and Harman “designed more to alarm than inform”, they spell out the danger:{{< sidenote reference="sn-cla" >}}Criminal Law Solicitor’s Association. 2017. <i>“Re: 41 Youth Justice and Criminal Evidence Act 1999”</i> March 28 <a href="http://www.clsa.co.uk/index.php?q=clsa-cba-open-letter-to-harriet-harman-mp-28th-march-2017">[link]</a>{{< /sidenote >}}
 
-Not only is the Government vulnerable to Mss Phillips’ and Harman’s influence; the public is also. In a letter from the Criminal Law Solicitors Association to Ms Harman registering their concern at “incautious public remarks” made by Mss Phillips and Harman “designed more to alarm than inform”, they spell out the danger:[^10]
-
-<figure>
-  <blockquote>
-    <p>We are deeply concerned that there is such a desperate absence of civic education in the UK that public misapprehension can be created and manipulated with the greatest ease</p>
-    <footer>
-      <cite>—Criminal Law Solicitor’s Association</cite>
-    </footer>
-  </blockquote>
-</figure>
+{{< blockquote source="Criminal Law Solicitor’s Association" >}}We are deeply concerned that there is such a desperate absence of civic education in the UK that public misapprehension can be created and manipulated with the greatest ease.{{< /blockquote >}}
 
 
-<figure class="float-right" style="width: 240px">
-<img 
-    src="./Harman_Feminist_Shirt.jpg" 
-    alt="Harriet Harman in feminist t-shirt">
-<figcaption>
-Labour MP Right Honourable Harriet Harman QC MP wearing her “This is what a feminist looks like” tee-shirt while representing her male and female constituants in the UK House of Commons.
-<figcaption>
-</figure>
 
 
 The Beale false accusation case offers an example of one law that Mss Phillips and Harman are creating and manipulating public apprehension to have changed. Under current arrangements, a man falsely accused of sexual assault or rape relies on a provision contained in Section 41 of the Youth Justice and Criminal Justice act 1999. Under the provision, designed to protect the claimant from irrelevant and potentially harmful questioning by the defendant, a judge may allow certain evidence to be admitted by the defendent if, by not allowing it, a miscarriage of justice is likely to occur.
@@ -208,6 +143,7 @@ Scott further notes the proposal is:
 
 
 First Lord of the Treasury, Minister for the Civil Service and Prime Minister the Right Honourable Theresa May MP has stated her firm intention during BREXIT to leave the European Convention on Human Rights, removing its ultimate protection for men falsely accused of sexual assault and rape.¹³
+{{% /section %}}
 
 ## Where does this leave us?
 

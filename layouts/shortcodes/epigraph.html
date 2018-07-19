@@ -1,0 +1,9 @@
+<div class="epigraph">
+    <blockquote>
+        <p> {{ .Inner }}</p>
+        <footer>
+            {{ .Get `author` }},
+            <cite>&ldquo;{{ .Get `source` }}&rdquo;</cite>
+        </footer>
+    </blockquote>
+</div>

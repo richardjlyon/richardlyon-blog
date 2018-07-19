@@ -2,7 +2,7 @@
     <p>
         {{.Inner}}
     </p>
-    <footer>
+    <footer>&mdash;
         {{ if isset .Params "url" }}
             <a href="{{ .Get `url` }}">{{ .Get "source" }}</a>
         {{ else }}

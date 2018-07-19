@@ -61,7 +61,16 @@ But tight integration of graphics with text is central to Tufte’s work even wh
 
 If you need a full-width figure, give it the fullwidth class. Make sure that’s inside an article, and it will take up (almost) the full width of the screen. This approach is demonstrated below using Edward Tufte’s English translation of the Napoleon’s March data visualization. From _Beautiful Evidence_, page 122-124.
 
+{{< figure-fullwidth src="Jessica_Beal-False_Rape_Allegation.jpg" >}}
 
+
+{{% /section %}}
+
+{{% section %}}
+
+## Epigraphs
+
+{{< epigraph author="George Orwell" source="Politics and the English Language">}}The English language . . . becomes ugly and inaccurate because our thoughts are foolish, but the slovenliness of our language makes it easier for us to have foolish thoughts.{{< /epigraph >}}
 
 
 {{% /section %}}
