@@ -4,3 +4,4 @@ title = "richard lyon"
 
 [permalinks]
   essays = "/:year/:month/:title/"
+  photos = "/:year/:month/:title/"
