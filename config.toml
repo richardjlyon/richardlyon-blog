@@ -1,0 +1,6 @@
+baseURL = "http://richardlyon.net/"
+languageCode = "en-gb"
+title = "richard lyon"
+
+[permalinks]
+  essays = "/:year/:month/:title/"
