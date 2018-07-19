@@ -1,0 +1,12 @@
+<blockquote>
+    <p>
+        {{.Inner}}
+    </p>
+    <footer>
+        {{ if isset .Params "url" }}
+            <a href="{{ .Get `url` }}">{{ .Get "source" }}</a>
+        {{ else }}
+            {{ .Get "source"  }}
+        {{ end }}
+    </footer>
+</blockquote>

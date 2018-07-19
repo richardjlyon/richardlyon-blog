@@ -1,0 +1,8 @@
+<figure>
+    <label class="margin-toggle" for="{{.Get `reference`}}">&#8853;</label>
+    <input type="checkbox" id="{{.Get `reference`}}" class="margin-toggle"/>
+    <span class="marginnote">
+        {{.Inner}}
+    </span>
+    <img src="{{ .Get `src` }}" alt="" />
+</figure>
