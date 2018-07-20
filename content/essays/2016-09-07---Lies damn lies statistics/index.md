@@ -17,6 +17,8 @@ description: What the plight of ‘The Flight of the Phoenix’ teaches us about
 
 {{% section %}}
 
+test
+
 Proponents of sustainable energy arrangements (of which I am one) face a difficult challenge -- reconciling the  fundamental incompatibility between the low grade{{< marginenote reference="Mn-grade" >}}‘grade’ here has a particular meaning in thermodynamics, referring to the concentration and therefore capacity to do work.{{< /marginenote >}}, intermittency, and high cost of current renewable energy technologies with the requirement of industrial economies for energy sources which are high grade, continuously available, and inexpensive.
 
 In our efforts to build confidence, mobilise support, and accelerate transition, we are inclined to refract the statistics of renewable technologies through glasses of the rosiest hue. Setting aside clearly recognisable self interests, this is largely well meaning. It is not, however, a luxury we can afford.
