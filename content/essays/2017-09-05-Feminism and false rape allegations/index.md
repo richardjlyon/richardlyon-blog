@@ -87,6 +87,8 @@ Where Phillips is an interloper, Harriet Harman holds the record as the longest 
 
 {{< blockquote source="Harriet Harman. 1990. The Family Way: A New Approach to Policy Making">}}It cannot be assumed that men are bound to be an asset to family life or that the presence of fathers in families is necessarily a means to social cohesion.{{< /blockquote >}}
 
+{{% section %}}
+
 ### Tampering with the law
 
 Of the many things that matter to women in the UK, Mss Phillips and Harman are particularly interested in altering the law in their favour. Harman, for example, played an active role in drafting the The Children Act 1989 transferring presumption of parental responsibility to women.{{< sidenote reference="sn-tcs1989" >}}Children Act 1989. Chapter 41, (2)(a){{< /sidenote >}}
@@ -102,7 +104,12 @@ The provision has the occasional effect, in Ms Saunders words, of *“preventing
 
 The provision also frustrates those who might believe that falsely imprisoning more men in order to increase the total number of convictions is an entirely reasonable sacrifice (for men) to make.
 
+{{% /section %}}
+
+{{% section %}}
+
 ### The two percent false rape claim myth 
+
 Feminist argue that the choice between false imprisonment and high conviction rate does not occur because, it is claimed, the rate of false rape allegations is negligible. That in turn rests on an argument that the process of bringing an allegation of rape to court has historically been so traumatic as to all but eliminate false allegations.{{< sidenote reference="Sn-greer" >}}Greer, E. 1999. <I>“The Truth Behind Legal Dominance Feminism’s Two Percent False Rape Claim Figure.”</I> Loy LAL Rev. Demonstrates the origin of the statistic in an unpublished speech several decades ago about a single New York City study based on inaequate research methodologies, replicated by notionally respectable feminist advocacy researchers to the level of ‘consensus’ through pyramidical referencing.{{< /sidenote >}}
 
 There is little compelling evidence (that has not been contaminated by advocacy research methodology) to support this claim. There is even less for any claim that those prepared to lie under oath for compensation money might be susceptible to trauma. 
@@ -130,6 +137,7 @@ Scott further notes the proposal is:
 {{< /blockquote >}}
 
 First Lord of the Treasury, Minister for the Civil Service and Prime Minister the Right Honourable Theresa May MP has stated her firm intention during BREXIT to leave the European Convention on Human Rights, removing its ultimate protection for men falsely accused of sexual assault and rape.¹³
+
 {{% /section %}}
 
 
