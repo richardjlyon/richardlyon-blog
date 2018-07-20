@@ -1,13 +1,13 @@
 ---
 title: Feminism and false rape allegations
 date: "2017-09-05T22:40:32.169Z"
-layout: post
-draft: false
-category: "Gender Politics"
+description: "Jemma Beale’s eventual prosecution for a series of false allegations of sexual assault and rape reveals gender feminism’s powerful grip on UK politics, and on its criminal justice system."
+categories: 
+  - "Gender Politics"
 tags:
   - "False Rape Allegations"
   - "Criminal Justice System"
-description: "Jemma Beale’s eventual prosecution for a series of false allegations of sexual assault and rape reveals gender feminism’s powerful grip on UK politics, and on its criminal justice system."
+draft: false
 ---
 {{% section %}}
 

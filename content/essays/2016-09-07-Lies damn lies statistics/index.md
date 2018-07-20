@@ -3,7 +3,8 @@ title: Lies, damn lies, and renewable energy
 date: "2016-09-07T22:40:32.169Z"
 layout: post
 draft: false
-category: "Energy"
+categories: 
+  - "Energy"
 tags:
   - "Solar Power"
   - "Climate change"
