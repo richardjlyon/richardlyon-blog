@@ -3,7 +3,7 @@
 <h1>{{ humanize .Section }}</h1>
 
 {{ with .Params.description }}
-  <p>{{.}}</p>
+  <p>{{. | markdownify }}</p>
 {{ end }}
 
 <ul>
