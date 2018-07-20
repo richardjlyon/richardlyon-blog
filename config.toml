@@ -7,5 +7,5 @@ title = "richard lyon"
   photos = "/:year/:month/:title/"
 
 [taxonomies]
-  category = "categories"
+  topic = "topics"
   tag = "tags"

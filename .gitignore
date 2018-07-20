@@ -72,3 +72,4 @@ pyskeleton/pyskeleton.tar.gz
 .idea/vcs.xml
 themes/ananke
 public
+.vscode/settings.json

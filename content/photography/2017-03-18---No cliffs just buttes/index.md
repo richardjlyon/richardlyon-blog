@@ -1,9 +1,8 @@
 ---
 title: Monument Valley, AZ
 date: "2017-09-05T22:40:32.169Z"
-layout: post
 draft: false
-category: Photography
+topics: photography
 tags:
   - Travel
 description: No cliffs. Just Buttes.

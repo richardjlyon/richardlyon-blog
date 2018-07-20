@@ -3,18 +3,21 @@
 <p class="subtitle">Richard Lyon</p>
 
 <section>
-    <p>Welcome to my public journal — a place for essays that deserve a home of some
-        sort online. Feel free to read and enjoy these random thoughts, and take away from them what you wish!</p>
+    <p>Welcome to my public journal — a place for essays that deserve a home of some sort online. Feel free to read and enjoy
+        these random thoughts, and take away from them what you wish!</p>
+
+    {{ range $key, $value := .Site.Taxonomies.topics }}
+    <h3> {{ $key | humanize }} </h3>
+
+    <ul>
+        {{ range $value.Pages }}
+        <li>
+            <a href="{{ .Permalink}}"> {{ .LinkTitle }} </a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
 </section>
 
-<section>
-    <h2>Thoughts & Musings</h2>
-    <h3>A recent selection of essays by Richard Lyon.</h3>
-    <ul>
-    {{ range .Pages }}
-        <li id="tufte-css"><a href="{{ .URL }}">{{ .Title }}</a></li>
-    {{ end }}
-    </ul>
-    {{ .Content }}
-</section>
 {{ end }}

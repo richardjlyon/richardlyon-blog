@@ -3,8 +3,7 @@ title: Lies, damn lies, and renewable energy
 date: "2016-09-07T22:40:32.169Z"
 layout: post
 draft: false
-categories: 
-  - "Energy"
+topics: energy
 tags:
   - "Solar Power"
   - "Climate change"
@@ -17,8 +16,6 @@ description: What the plight of ‘The Flight of the Phoenix’ teaches us about
 
 
 {{% section %}}
-
-test
 
 Proponents of sustainable energy arrangements (of which I am one) face a difficult challenge -- reconciling the  fundamental incompatibility between the low grade{{< marginenote reference="Mn-grade" >}}‘grade’ here has a particular meaning in thermodynamics, referring to the concentration and therefore capacity to do work.{{< /marginenote >}}, intermittency, and high cost of current renewable energy technologies with the requirement of industrial economies for energy sources which are high grade, continuously available, and inexpensive.
 
