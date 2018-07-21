@@ -2,7 +2,7 @@
     <label for="{{.Get `reference`}}" class="margin-toggle">&#8853;</label>
     <input type="checkbox" id="{{.Get `reference`}}" class="margin-toggle"/>
     <span class="marginnote">
-        <img src="{{.Site.BaseURL}}img/{{.Get `image_source`}}" alt="" />
+        <img src="/img/{{.Get `image_source`}}" alt="" />
         {{.Get `caption` | safeHTML }}
     </span>
     {{.Inner}}
