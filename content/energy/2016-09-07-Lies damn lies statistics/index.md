@@ -1,14 +1,12 @@
 ---
 title: Lies, damn lies, and renewable energy
+description: What the plight of ‘The Flight of the Phoenix’ teaches us about the claims for renewable technologies.
 date: "2016-09-07"
-layout: post
-draft: false
-topics: energy
 tags:
   - "Solar Power"
   - "Climate change"
   - "Wind Energy"
-description: What the plight of ‘The Flight of the Phoenix’ teaches us about the claims for renewable technologies.
+draft: false
 ---
 
 {{< figure-fullwidth src="flight-of-the-phoenix.4039d75bd03941c0b21af87eec22da42.jpg" >}}

@@ -1,1 +1,5 @@
-My studies led me to take a Masters Degree in Energy Economics. Conclusion: our energy outlook is bleak--build a passive house.
+---
+title: energy
+---
+
+My studies led me to take a Masters Degree in Energy Economics. Most claims about the role of renewable energy technologies in our future are absurd.

@@ -1,6 +1,7 @@
 baseURL = "https://www.richardlyon.net/"
 languageCode = "en-gb"
 title = "richard lyon"
+sectionPagesMenu = "main"
 
 [permalinks]
   essays = "/:year/:month/:title/"

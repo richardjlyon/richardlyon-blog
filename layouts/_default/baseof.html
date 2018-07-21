@@ -8,13 +8,12 @@
     <link rel="stylesheet" href="{{.Site.BaseURL}}css/tufte.css"/>
 </head>
 <body>
-<div id="'nav">
     <div class="topnav">
         <a class="active" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-        {{ range $key, $value := .Site.Taxonomies.topics }}
-        <a href="{{ "/" }}{{ $key | urlize }}">{{ $key | humanize }}</a>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name | humanize }}</a>
         {{ end }}
-        <a href="{{ .Site.BaseURL }}about">About</a>
     </div>
 
     <article>

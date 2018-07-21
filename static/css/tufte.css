@@ -277,8 +277,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #888;
-    color: white;
+    font-weight: 800;
 }
 
 
