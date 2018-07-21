@@ -1,5 +1,5 @@
 ---
-title: "{{ $name := substr .Name 7}}{{ replace $name "-" " " | title }}"
+title: "{{ $name := substr .Name 7}}{{ replace $name "-" " " | humanize }}"
 date: {{ .Date }}
 description: 
 tags:
