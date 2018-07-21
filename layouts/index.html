@@ -1,7 +1,6 @@
 {{ define "main" }}
-<h1>A (Public) Journal.</h1>
+<h1>A (Public) Journal</h1>
 <p class="subtitle">Richard Lyon</p>
-
 
     <p>Welcome to my public journal — a place for essays that deserve a home of some sort online. Feel free to read and enjoy
         these random thoughts, and take away from them what you wish!</p>
@@ -10,12 +9,12 @@
     <h3> {{ $key | humanize }} </h3>
 
     <ul>
-        {{ range $value.Pages }}
-        <li>
-            <a href="{{ .Permalink}}"> {{ .LinkTitle }} </a>
-        </li>
+        {{ range first 3 $value.Pages }}
+        <li>{{ partial "summary.html" . }}</li>
         {{ end }}
-    </ul>
+
+    <li><a href="{{ "/" }}{{ $key | urlize }}">more...</a></li>
+</ul>
     {{ end }}
 
 
