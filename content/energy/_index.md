@@ -1,0 +1,1 @@
+My studies led me to take a Masters Degree in Energy Economics. Conclusion: our energy outlook is bleak--build a passive house.
