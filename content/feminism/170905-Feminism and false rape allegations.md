@@ -8,7 +8,6 @@ tags:
 draft: false
 ---
 {{% section %}}
-
 {{< marginenote reference="Mn-update" >}}_<span class="newthought">Note: In this essay,</span> written in September 2017, I called for the resignation of the Crown Prosecution Service Director Alison Saunders. In April 2018, Saunders was forced to resign in the wake of widespread condemnation and loss of public confidence in the Criminal Prosecution Service arising from her policies._{{< /marginenote >}}
 
 <span class="newthought">Jemma Beale (25) was found guilty</span> in July in Southwark Crown Court of making a series of false allegations of serious sexual assault and rape against fifteen men over a four year period. One falsely convicted man served two years of a seven year prison sentence in 2011 after the Crown Prosecution Service’s second attempt to secure his conviction on her behalf. Another was falsely arrested after being forced to flee the country.
@@ -34,10 +33,10 @@ So, the Beale case demonstrates that, under current arrangements: a strong motiv
 You might think, given the motive, means, and practice of lying under oath while making false allegations of sexual assault, that the UK justice system would take particular care to safeguard provisions afforded its mostly male victims to defend themselves adequately from it.
 
 In fact, the Crown Prosecution Service and UK Government, under the influence of its feminist Director of Public Prosecutions, and of the feminist advocacy lobby, are making significant efforts to further weaken such provisions. To understand such a perverse outcome, it’s necessary to take a step back to survey the extent to which UK institutions have been captured by feminist advocacy groups.
+
 {{% /section %}}
 
 
-{{% section %}}
 
 ## The Crown Prosecution Service
 
@@ -62,10 +61,7 @@ Giving full benefit of the doubt to the feminist case and accepting their figure
 Notwithstanding, Ms Saunders informs her so-called ‘stakeholders’ (a coalition of feminist lobbyists and advocacy groups):
 *"We remain committed to building on our achievements, learning from our mistakes and working with our stakeholders to ensure a better service for the victims of these crimes."*
 
-{{% /section %}}
 
-
-{{% section %}}
 
 ## The rise (and rise) of feminist politicians
 
@@ -85,7 +81,7 @@ Where Phillips is an interloper, Harriet Harman holds the record as the longest 
 
 {{< blockquote source="Harriet Harman. 1990. The Family Way: A New Approach to Policy Making">}}It cannot be assumed that men are bound to be an asset to family life or that the presence of fathers in families is necessarily a means to social cohesion.{{< /blockquote >}}
 
-{{% section %}}
+
 
 ### Tampering with the law
 
@@ -102,9 +98,7 @@ The provision has the occasional effect, in Ms Saunders words, of *“preventing
 
 The provision also frustrates those who might believe that falsely imprisoning more men in order to increase the total number of convictions is an entirely reasonable sacrifice (for men) to make.
 
-{{% /section %}}
 
-{{% section %}}
 
 ### The two percent false rape claim myth 
 
@@ -136,10 +130,7 @@ Scott further notes the proposal is:
 
 First Lord of the Treasury, Minister for the Civil Service and Prime Minister the Right Honourable Theresa May MP has stated her firm intention during BREXIT to leave the European Convention on Human Rights, removing its ultimate protection for men falsely accused of sexual assault and rape.¹³
 
-{{% /section %}}
 
-
-{{% section %}}
 
 ## Where does this leave us?
 
@@ -152,6 +143,5 @@ Harman and Phillips, having been temporarily selected and empowered by Democrati
 
 Saunders is a different matter. As a public servant, she has a duty to uphold the highest standards of impartiality in her direction of the state’s prosecution function. That duty would be fundamentally compromised by any unwillingness to separate her private beliefs from her public work. **If she is shown to be incapable of maintaining that separation, she should be removed from office.**
 
-{{% /section %}}
-<hr />
+
 
