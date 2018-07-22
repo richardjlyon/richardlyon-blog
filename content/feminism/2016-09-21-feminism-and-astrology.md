@@ -1,16 +1,15 @@
 ---
-title:      On feminism, gravity, and astrology
-description:     Feminist theory, like astrology, is irrelevant because it spends more time explaining why it doesn't predict reality than actually predicting reality.
-date:       2016-09-21
-post-image: astrology.png
-draft: true
+title:          On feminism, gravity, and astrology
+description:    Feminist theory, like astrology, is irrelevant because it spends more time explaining why it doesn't predict reality than actually predicting reality.
+date:           2016-09-21
+bannerimage: astrology.png
 ---
 
 Feminism, like gravity and astrology, is a theory. It's a guess about how things work, based on observations about reality.
 
 While theories can be complex, the test of a theory's relevance is brutally simple: does it, in fact, account for what we observe? For example: gravitational theory predicts that an apple will fall from a tree towards the ground. It does this so well that we can predict the velocity of the apple as it hits the grass.
 
-A Physicist who observed an apple 'falling' from the ground back up into the tree could not claim that the force we call 'gravity' was operating. Faced with such a startling observation, the Physicist would have to make a choice (fn): abandon the claim and search for another; or expand the claim with another accounting for why, on this occasion, the core claim should be relieved of the burden of explaining this particular observation - an excuse, if you will.
+A Physicist who observed an apple 'falling' from the ground back up into the tree could not claim that the force we call 'gravity' was operating. Faced with such a startling observation, the Physicist would have to make a choice: abandon the claim and search for another; or expand the claim with another accounting for why, on this occasion, the core claim should be relieved of the burden of explaining this particular observation - an excuse, if you will.
 
 ## Excuse me?
 
