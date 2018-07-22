@@ -1,6 +1,5 @@
 ---
 layout:     post
-category:   politics
 tags:       feminism
 title:      Guilty until proven innocent  
 rubric:     What the current attempt to deprive men of the right to defend against perjured evidence reveals about the consolidation of feminism's political power.

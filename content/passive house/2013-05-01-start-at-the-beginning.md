@@ -3,7 +3,6 @@ layout: post
 title: Start at the beginning
 subtitle: And so it begins
 date: 2013-05-01
-category: Kingswood
 draft: true
 ---
 
