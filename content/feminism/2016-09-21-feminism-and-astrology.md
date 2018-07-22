@@ -5,7 +5,7 @@ date:           2016-09-21
 bannerimage:    astrology.png
 ---
 
-Feminism, like gravity and astrology, is a theory. It's a guess about how things work, based on observations about reality.
+<span class="newthought">Feminism, like gravity</span> and astrology, is a theory. It's a guess about how things work, based on observations about reality.
 
 While theories can be complex, the test of a theory's relevance is brutally simple: does it, in fact, account for what we observe? For example: gravitational theory predicts that an apple will fall from a tree towards the ground. It does this so well that we can predict the velocity of the apple as it hits the grass.
 
