@@ -2,4 +2,4 @@
 title: feminism
 ---
 
-The myth peddled by the multimillion dollar feminist industry that women are systematically disadvantaged by men is one that requires destroying before it destroys society.
+The feminist project is nothing if not ambitious. Their claim that a society in which men die earlier and are killed more often than women, achieve poorer educational outcomes then women, and are incarcerated and executed more frequently for the same crimes than women, is organised by men for their own benefit is courageous.
