@@ -76,3 +76,6 @@ pyskeleton/pyskeleton.tar.gz
 themes/ananke
 public
 .vscode/settings.json
+
+# Hugo 
+resources/_gen/

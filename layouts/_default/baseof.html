@@ -12,8 +12,10 @@
         <a class="active" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name | humanize }}</a>
-        {{ end }}
+        {{ if ne .Name "Media Folder"}}
+            <a class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name | humanize }}</a>
+            {{ end }}
+        {{end }}
         <a class="" href="/about">About</a>
     </div>
 

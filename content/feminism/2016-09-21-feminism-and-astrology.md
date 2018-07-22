@@ -2,7 +2,7 @@
 title:          On feminism, gravity, and astrology
 description:    Feminist theory, like astrology, is irrelevant because it spends more time explaining why it doesn't predict reality than actually predicting reality.
 date:           2016-09-21
-bannerimage: astrology.png
+bannerimage:    astrology.png
 ---
 
 Feminism, like gravity and astrology, is a theory. It's a guess about how things work, based on observations about reality.
