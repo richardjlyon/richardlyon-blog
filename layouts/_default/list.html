@@ -1,16 +1,12 @@
 {{ define "main" }}
 
-<h1>{{ humanize .Section }}</h1>
-
-{{ with .Params.description }}
-  <p>{{. | markdownify }}</p>
-{{ end }}
+<h1>{{ .Section | humanize }}</h1>
 
 {{ .Content  }}
 
 <ul>
   {{ range .Pages }}
-    <li>{{ partial "summary.html" . }}</li>
+  <li>{{ partial "summary.html" . }}</li>
   {{ end }}
 </ul>
 

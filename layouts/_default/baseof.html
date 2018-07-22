@@ -14,6 +14,7 @@
         {{ range .Site.Menus.main }}
         <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name | humanize }}</a>
         {{ end }}
+        <a class="" href="/about">About</a>
     </div>
 
     <article>
