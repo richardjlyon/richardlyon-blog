@@ -1,19 +1,18 @@
 ---
-layout: post
 title: Candid Badger Camera
 date: 2013-07-15
-category: Kingswood
-draft: true
+description: Who really made a hole in the wall?
 ---
 
-<iframe src="//player.vimeo.com/video/86388623" width="600" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen name="Adult and juvenile badgers, filmed at night"></iframe>
+{{< iframe src="https://player.vimeo.com/video/86388623"/>}}
 
-Keen to understand my striped neighbours and their needs a little better, I arrange to meet Tricia and John from Edinburgh and Lothian Badgers Group at Kingswood, to look for faeces and snuffle holes in the company of a practiced eye.
 
-Yep. Badgers. We find hair, scratched up weeds, and quite a bit of evidence of general Badger to-ing and fro-ing. The colossal hole in the wall is, according to John, likely to be Badgers – they are very strong, he says. I think it more likely to be the work of Badger accomplices, but feel it wiser to keep my opinions to myself (and now, the entire internet).
+<span class="newthought">Keen to understand</span> my striped neighbours and their needs a little better, I arrange to meet Tricia and John from Edinburgh and Lothian Badgers Group at Kingswood, to look for faeces and snuffle holes in the company of a practiced eye.
 
-![The hole in the wall made, apparently, by Badgers.](/assets/hole-in-the-wall.jpg){: .img-responsive }
-<span class="caption text-muted">The hole in the wall made, apparently, by Badgers.</span>
+Badgers. We find hair, scratched up weeds, and quite a bit of evidence of general Badger to-ing and fro-ing. The colossal hole in the wall is, according to John, likely to be Badgers--they are very strong, he says. I think it more likely to be the work of Badger accomplices, but feel it wiser to keep my opinions to myself (and now, the entire internet).
+
+{{% figure src="hole-in-the-wall.jpg" for="Scottish-badger-vandalism" %}}The hole in the wall made, apparently, by Badgers, and most certainly not by <i>Edinburgh and Lothian Badgers Group</i>.{{% /figure %}}
+
 
 We discuss Badger Fences, Badger Gates, and Badger Corridors.
 
