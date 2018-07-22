@@ -6,7 +6,7 @@ tags:
   - "Solar Power"
   - "Climate change"
   - "Wind Energy"
-draft: false
+draft: true
 ---
 
 {{< figure-fullwidth src="flight-of-the-phoenix.4039d75bd03941c0b21af87eec22da42.jpg" >}}
