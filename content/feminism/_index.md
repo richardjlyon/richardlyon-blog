@@ -2,4 +2,4 @@
 title: feminism
 ---
 
-The feminist project is nothing if not ambitious. Their claim that a society in which men die earlier and are killed more often than women, achieve poorer educational outcomes then women, and are incarcerated and executed more frequently for the same crimes than women, is organised by men for their own benefit is courageous.
+The feminist project is nothing if not ambitious. We live in a society in which which men: kill themselves, die earlier and are killed more often than women; comprise more than 80% of the homeless, and have less than 20% of homeless shelter spaces; achieve poorer educational outcomes and have lower average incomes after leaving school and college than women; and are incarcerated and executed more frequently for the same crimes than women. 
