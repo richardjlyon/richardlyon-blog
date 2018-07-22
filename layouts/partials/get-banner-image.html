@@ -1,10 +1,11 @@
 {{ $page := . }}
+{{ if $page.Params.bannerimage }}
+    {{ with .Site.GetPage "section" "media" }}
 
-{{ with .Site.GetPage "section" "media" }}
+        {{ $image := .Resources.GetMatch $page.Params.bannerimage}}
+        {{ $image1024x100 := ($image.Fill "1024x100") }}
 
-    {{ $image := .Resources.GetMatch $page.Params.bannerimage}}
-    {{ $image1024x100 := ($image.Fill "1024x100") }}
+        <img src="{{ $image1024x100.RelPermalink }}">
 
-    <img src="{{ $image1024x100.RelPermalink }}">
-
+    {{ end }}
 {{ end }}

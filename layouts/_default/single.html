@@ -2,12 +2,12 @@
 
     <h1>{{ .Title }}</h1>
 
+    {{ partial "get-banner-image" . }}
+    
     <p class="subtitle">{{ .Description }}</p>
 
-    {{ if .Params.bannerimage }}
-        {{ partial "get-banner-image" . }}
-    {{ end}}
 
+   
     <section>
     
     {{ .Content }}
