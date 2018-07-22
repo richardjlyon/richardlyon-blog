@@ -1,16 +1,15 @@
 ---
-layout: post
 title: In which badgers are first encountered
-subtitle: There are Badgers in Kingswood
+description: There are Badgers in Kingswood.
 date: 2013-06-14
-category: Kingswood
 header-img: "img/bg-badger.jpg"
-draft: true
 ---
 
-![Badger.](/assets/bg-badger.jpg){: .img-responsive }
+{{< figure-fullwidth src="bg-badger.jpg" >}}
 
-Badgers (_Meles meles_) are protected under the _Protection of Badgers Act 1992_, i.e.
+
+
+<span class="newthought">Badgers</span> (_Meles meles_) are protected under the _Protection of Badgers Act 1992_, i.e.
 
 > Protected from being disturbed, killed, injured or taken and their setts from obstruction, damage or destruction.
 
