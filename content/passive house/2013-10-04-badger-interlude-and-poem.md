@@ -3,6 +3,7 @@ title: A badger interlude, and poem
 date: 2013-10-04
 layout: post
 category: Kingswood
+draft: true
 ---
 
 TO RECAP: I'm obliged to install a fence-and-flap arrangement to prevent any construction work from disturbing the equanimity of my stripy friends.

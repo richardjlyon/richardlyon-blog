@@ -4,6 +4,7 @@ title: Planning
 subtitle: Let's talk about the planning process
 date: 2014-09-12
 category: Housing
+draft: true
 ---
 
 ![Graffiti](/assets/graffiti.jpg){: .img-responsive }

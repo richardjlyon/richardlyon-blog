@@ -3,6 +3,7 @@ layout: post
 title: The basic design
 date: 2013-05-25
 category: Kingswood
+draft: true
 ---
 
 Planning permission was secured by the previous owner for an "Earth Ship" style of house, which is all the rage on _Grand Designs_.

@@ -2,6 +2,7 @@
 title: The energy problem
 description: Why build a zero energy house?
 date: 2013-05-05
+draft: true
 header-img: "img/bg-pollution.jpg"
 ---
 

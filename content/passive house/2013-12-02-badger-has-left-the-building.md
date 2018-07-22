@@ -2,7 +2,8 @@
 layout: post
 title: Badger has left the building
 date: 2013-12-02
-category: Kingswood
+category: passive house
+draft: true
 ---
 
 So, after £2,000 expenditure, I have a Badger fence which is visible with the naked eye from space:

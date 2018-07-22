@@ -3,6 +3,7 @@ layout: post
 title: Candid Badger Camera
 date: 2013-07-15
 category: Kingswood
+draft: true
 ---
 
 <iframe src="//player.vimeo.com/video/86388623" width="600" height="390" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen name="Adult and juvenile badgers, filmed at night"></iframe>

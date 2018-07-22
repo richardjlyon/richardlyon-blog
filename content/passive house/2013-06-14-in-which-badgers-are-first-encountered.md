@@ -5,6 +5,7 @@ subtitle: There are Badgers in Kingswood
 date: 2013-06-14
 category: Kingswood
 header-img: "img/bg-badger.jpg"
+draft: true
 ---
 
 ![Badger.](/assets/bg-badger.jpg){: .img-responsive }

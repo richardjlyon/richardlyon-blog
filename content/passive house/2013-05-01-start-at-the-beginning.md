@@ -4,6 +4,7 @@ title: Start at the beginning
 subtitle: And so it begins
 date: 2013-05-01
 category: Kingswood
+draft: true
 ---
 
 I have [some land][1]. I have [a book][2], a [talented architect][3], some drawings, and a vague picture in my mind of what I want.
