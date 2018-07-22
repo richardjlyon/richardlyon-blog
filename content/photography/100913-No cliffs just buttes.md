@@ -15,7 +15,7 @@ tags:
 ---
 
 
-I arrived late in the evening at Monument Valley, tired from the long drive from Bryce Canyon. I pitched my tent on a narrow strip of sand next to the Navajo visitor centre car park, and fell asleep.
+<span class="newthought">I arrived late</span> in the evening at Monument Valley, tired from the long drive from Bryce Canyon. I pitched my tent on a narrow strip of sand next to the Navajo visitor centre car park, and fell asleep.
 
 I woke at dawn to this view--the iconic backdrop of the cowboy movies of my childhood. I felt the usual prickle of not-quite-recognition that attended much of my drive round the US that year.
 
