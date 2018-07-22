@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Start at the beginning
 description: And so it begins
 date: 2013-05-01
 ---
 
-I have some land, a book{{< sidenote reference="sn-book" >}}Cotterrel, J. 2012. <i>"The Passivhaus Handbook: A practical guide to constructing and retrofitting buildings for ultra-low energy performance"</i>{{< /sidenote >}}, some drawings, and a vague picture in my mind of what I want.
+<span class="newthought">I have some land</span>, a book{{< sidenote reference="sn-book" >}}Cotterrel, J. 2012. <i>"The Passivhaus Handbook: A practical guide to constructing and retrofitting buildings for ultra-low energy performance"</i>{{< /sidenote >}}, some drawings, and a vague picture in my mind of what I want.
 
 I have some time, and some money, neither in particularly large quantity.
 
