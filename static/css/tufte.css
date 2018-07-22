@@ -78,6 +78,11 @@ p.subtitle { font-style: italic;
 
 .numeral { font-family: et-book-roman-old-style; }
 
+.date {
+    font-size: 0.8em;
+    color: #888888;
+    padding-right: 1em;
+}
 .danger { color: red; }
 
 article { position: relative;
@@ -86,7 +91,7 @@ article { position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
-p, ol, ul { font-size: 1.4rem;
+p, ol, ul, td { font-size: 1.4rem;
             line-height: 2rem; }
 
 p { margin-top: 1.4rem;
@@ -253,6 +258,18 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                          height: 90%; 
                          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
                         }
+
+/* table */
+td.info {
+ 
+    padding-left: 25px;
+    vertical-align: top;
+}
+
+td > img {
+    width: 160px;
+    border: 1px solid rgb(128, 128, 128);
+}
 
 /* navigation*/
 /* Add a black background color to the top navigation */

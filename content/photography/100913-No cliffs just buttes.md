@@ -3,7 +3,6 @@ date: "2010-09-13T22:40:32.169Z"
 title: Monument Valley, Arizona
 description: No cliffs. Just Buttes.
 
-type: photo
 file: monument-valley.jpg
 camera:       Apple iPhone 7
 iso:          640

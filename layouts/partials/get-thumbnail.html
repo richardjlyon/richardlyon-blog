@@ -1,0 +1,9 @@
+{{ $page := . }}
+{{ with .Site.GetPage "section" "media" }}
+
+    {{ $image := .Resources.GetMatch $page.Params.file}}
+    {{ $image320x := ($image.Resize "320x") }}
+
+    <img src="{{ $image320x.RelPermalink }}">
+
+{{ end }}

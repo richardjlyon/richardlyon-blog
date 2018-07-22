@@ -3,7 +3,6 @@ date: 2010-09-11T17:44:14+01:00
 title: Bryce Canyon, Utah
 description: A helluva place to lose a cow
 
-type: photo
 file: bryce-canyon.jpg
 camera: Nikon D200
 iso:  200

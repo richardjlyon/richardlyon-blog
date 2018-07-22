@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+PHOTO
+<h1>{{ .Section | humanize }}</h1>
+
+{{ .Content  }}
+
+<table>
+    {{ range .Pages }}
+      <tr>
+        <td class="thumbnail">{{ partial "get-thumbnail.html" . }}</td><td class="info">{{ partial "summary.html" . }}</td>
+      </tr>
+    {{ end}}
+</table>
+
+{{ end }}
