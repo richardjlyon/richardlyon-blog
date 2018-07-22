@@ -3,6 +3,7 @@
     {{ .Content  }}
     
     {{ range $key := .Site.Sections }}
+    {{ if ne .Title "Media Folder"}}
         <h3> {{ $key.Title | humanize }} </h3>
         <ul>
             {{ range first 3 $key.Pages }}
@@ -10,5 +11,6 @@
             {{ end }}
             <li><a href="{{ "/" }}{{ $key.Title | urlize }}">more...</a></li>
         </ul>
+    {{ end }}
     {{ end }}
 {{ end }}
