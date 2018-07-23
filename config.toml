@@ -2,6 +2,7 @@ baseURL = "https://www.richardlyon.net/"
 languageCode = "en-gb"
 title = "richard lyon"
 sectionPagesMenu = "main"
+enableRobotsTXT = true
 
 [permalinks]
   essays = "/:year/:month/:title/"
