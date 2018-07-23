@@ -4,7 +4,7 @@
     
     {{ range $key := .Site.Sections }}
     {{ if ne .Title "Media Folder"}}
-        <h3> {{ $key.Title | humanize }} </h3>
+        <h3 class="allcaps">{{ $key.Title | humanize }}</h3>
         <ul>
             {{ range first 3 $key.Pages }}
             <li>{{ partial "summary.html" . }}</li>
