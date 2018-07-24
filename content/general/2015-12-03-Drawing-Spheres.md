@@ -33,6 +33,9 @@ Lesson 3 steps it up to multiple spheres, and introduces perspective. Here, I've
 
 In the Lesson 3 challenge, he invites you to have ... fun with spheres. Here's what I came up with. I screwed up a bit and filled the sky black after drawing in it - it's created artifacts that wouldn't have been there if I'd drawn the black sky first. But it's pretty good.
 
-{{% figure src="Lesson_3_-_Bonus_Challenge.jpg" for="L3-challenge" %}}{{% /figure %}}
+{{% figure-fullwidth src="Lesson_3_-_Bonus_Challenge.jpg"  %}}
+
+{{< figure-fullwidth src="red_balls.jpg" >}}
+
 
 I'm startled at how quickly these are improving.
