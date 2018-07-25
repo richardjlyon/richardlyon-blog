@@ -13,18 +13,12 @@ In it, he asks you to draw a plane, a house, and a bagel before you start the co
 {{% figure src="Day_1_of_30_Initial_Test.jpg" for="init-test" /%}}
 
 ## Lesson 1
-Lesson 1 is about the sphere. Here's my first attempt:
+{{< marginenote  >}}Lesson 1 is about the sphere. Here's my first attempt:{{< /marginenote >}}{{% figure src="Lesson_1_-_Sphere.jpg" for="l1-sphere" /%}}
 
-{{% figure src="Lesson_1_-_Sphere.jpg" for="l1-sphere" /%}}
-
-Then he asks you to apply that to drawing an apple:
-
-{{% figure src="Lesson_1_-_Apple.jpg" for="l1-apple" /%}}
+{{< marginenote  >}}Then he asks you to apply that to drawing an apple:{{< /marginenote  >}}{{% figure src="Lesson_1_-_Apple.jpg" for="l1-apple" /%}}
 
 ## Lesson 2
-Lesson 2 is all about overlapping spheres. The idea here is to pick out "nook and cranny" shading to identify, separate and define the different objects. Here's my first stab.
-
-{{% figure src="Lesson_2_-_Overlapping_Spheres.jpg" for="l2-overlap" %}}{{% /figure %}}
+{{< marginenote  >}}Lesson 2 is all about overlapping spheres. The idea here is to pick out "nook and cranny" shading to identify, separate and define the different objects. Here's my first stab.{{< /marginenote >}}{{% figure src="Lesson_2_-_Overlapping_Spheres.jpg" for="l2-overlap" /%}}
 
 ## Lesson 3
 Lesson 3 steps it up to multiple spheres, and introduces perspective. Here, I've used my finger to smooth the shading to create a metallic or glassy finish.
