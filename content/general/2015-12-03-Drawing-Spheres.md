@@ -29,11 +29,11 @@ Lesson 2 is all about overlapping spheres. The idea here is to pick out "nook an
 ## Lesson 3
 Lesson 3 steps it up to multiple spheres, and introduces perspective. Here, I've used my finger to smooth the shading to create a metallic or glassy finish.
 
-{{% figure src="Lesson_3_-_Advanced_Spheres.jpg" for="L3-advanced" %}}{{% /figure %}}
+{{% figure-fullwidth src="Lesson_3_-_Advanced_Spheres.jpg"  %}}
 
 In the Lesson 3 challenge, he invites you to have ... fun with spheres. Here's what I came up with. I screwed up a bit and filled the sky black after drawing in it - it's created artifacts that wouldn't have been there if I'd drawn the black sky first. But it's pretty good.
 
-{{% figure-fullwidth src="Lesson_3_-_Bonus_Challenge.jpg"  %}}
+{{< figure-fullwidth src="Lesson_3_-_Bonus_Challenge.jpg"  >}}
 
 {{< figure-fullwidth src="red_balls.jpg" >}}
 
